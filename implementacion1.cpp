@@ -10,7 +10,7 @@
 int RANGO=20;
 
 int N=800;
-int NHilos=1;
+int NHilos=4;
 using namespace std;
 struct PasarParametros
 {
